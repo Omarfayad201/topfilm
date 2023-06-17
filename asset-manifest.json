@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/topfilm/static/css/main.e14e4c1f.css",
+    "main.js": "/topfilm/static/js/main.25eb11c7.js",
+    "static/media/fa-solid-900.ttf": "/topfilm/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/fa-brands-400.ttf": "/topfilm/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/fa-solid-900.woff2": "/topfilm/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/fa-brands-400.woff2": "/topfilm/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/fa-regular-400.ttf": "/topfilm/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/7a1bd9d0-7eef-40f7-8e40-94049c9f2830.jpeg": "/topfilm/static/media/7a1bd9d0-7eef-40f7-8e40-94049c9f2830.53b72643e3798fcae2ed.jpeg",
+    "static/media/fa-regular-400.woff2": "/topfilm/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/fa-v4compatibility.ttf": "/topfilm/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "/topfilm/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "static/media/logo.svg": "/topfilm/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/slick.svg": "/topfilm/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/topfilm/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/topfilm/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/topfilm/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/topfilm/index.html",
+    "main.e14e4c1f.css.map": "/topfilm/static/css/main.e14e4c1f.css.map",
+    "main.25eb11c7.js.map": "/topfilm/static/js/main.25eb11c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e14e4c1f.css",
+    "static/js/main.25eb11c7.js"
+  ]
+}
