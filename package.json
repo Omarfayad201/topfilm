@@ -1,5 +1,5 @@
 {
-
+"homepage": "http://Omarfayad201.github.io/topfilm",
  "name": "projectreact",
 
  "version": "0.1.0",
@@ -43,7 +43,10 @@
  },
 
  "scripts": {
+
   "start": "react-scripts start",
+  "predeploy":"npm run build ",
+  "deploy":"gh-pages -d build"
 
   "build": "react-scripts build",
 
