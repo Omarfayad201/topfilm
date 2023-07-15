@@ -61,7 +61,7 @@ setIsLoading(true)
         <div className="container-fluid mt-5 my-5 pt-5 py-5">
 
             
-            <div className="w-75 mx-auto py-4 text-white fonts ">
+            <div className="w-75 mx-auto py-4 text-white fonts min-login">
                 {messageUser ? <div className="alert bg-alert">{messageUser }</div>:null }
                 
                 <h3 className='ms-5 ps-5 w-100 d-flex '>register Now : </h3>
@@ -69,7 +69,7 @@ setIsLoading(true)
                
         
             <div className="w-50 mx-auto">
-                <div className="inputs w-100  py-5 px-5 box-shadow">
+                <div className="inputs w-100  py-5 px-5 box-shadow min-login">
                     <form onSubmit={formik.handleSubmit}>
                         
 
