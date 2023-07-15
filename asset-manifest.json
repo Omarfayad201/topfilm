@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/topfilm/static/css/main.e14e4c1f.css",
-    "main.js": "/topfilm/static/js/main.25eb11c7.js",
+    "main.css": "/topfilm/static/css/main.c1880f72.css",
+    "main.js": "/topfilm/static/js/main.7881432f.js",
     "static/media/fa-solid-900.ttf": "/topfilm/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
     "static/media/fa-brands-400.ttf": "/topfilm/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
     "static/media/fa-solid-900.woff2": "/topfilm/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
@@ -17,11 +17,11 @@
     "static/media/slick.ttf": "/topfilm/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/topfilm/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/topfilm/index.html",
-    "main.e14e4c1f.css.map": "/topfilm/static/css/main.e14e4c1f.css.map",
-    "main.25eb11c7.js.map": "/topfilm/static/js/main.25eb11c7.js.map"
+    "main.c1880f72.css.map": "/topfilm/static/css/main.c1880f72.css.map",
+    "main.7881432f.js.map": "/topfilm/static/js/main.7881432f.js.map"
   },
   "entrypoints": [
-    "static/css/main.e14e4c1f.css",
-    "static/js/main.25eb11c7.js"
+    "static/css/main.c1880f72.css",
+    "static/js/main.7881432f.js"
   ]
 }
