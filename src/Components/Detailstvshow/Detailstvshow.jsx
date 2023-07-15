@@ -83,10 +83,7 @@ var settings = {
             <div className="row position-relative">
                 
 
-                {loading == true?<div className="loading-page d-flex justify-content-center align-items-center  bg-dark position-absolute top-0 start-0 end-0 bottom-0 ">
-<h1>loading... </h1>
-<i className='fas fa-spinner fa-spin fs-1 '></i>
-                </div>:<>
+                
                 <div className="col-md-3">
                     <div className="poster text-center">
                         <img className='w-100 im-md' src={`https://image.tmdb.org/t/p/w500/` + movieDetails?.poster_path} alt="" /> 
@@ -174,7 +171,7 @@ var settings = {
 
                 </div>
 
-                </>
+               
 
                 
                 
@@ -182,7 +179,7 @@ var settings = {
                 
                 
                 
-                }
+                
                 
                 
                 

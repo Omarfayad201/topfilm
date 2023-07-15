@@ -37,10 +37,7 @@ setMovies(slicedArray)
       <div className="container-fluid g-0">
         
 
-          {loading == true ?<div className="loading-page d-flex justify-content-center align-items-center  bg-dark position-absolute top-0 start-0 end-0 bottom-0 ">
-<h1>loading... </h1>
-<i className='fas fa-spinner fa-spin fs-1'></i>
-        </div>:<div className="row position-relative">
+          <div className="row position-relative">
     
           <div className="titles text-white mt-5 fonts ps-5">
     
@@ -78,7 +75,7 @@ setMovies(slicedArray)
 
                 </div>
   
-        }
+        
 
 
         
